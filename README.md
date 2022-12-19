@@ -19,5 +19,6 @@
 |[0x02-python-import_modules](0x02-python-import_modules)|Implents python Modules, Command line arguments, and Pycodestyle – Style Guide for Python Code.|
 |[0x03-python-data_structures](0x03-python-data_structures)|Implements data structures n python - lists and tuples.|
 |[0x04-python-more_data_structures](0x04-python-more_data_structures)| More on data Structures: Set, Dictionary in python|
+|[0x05-python-exceptions](0x05-python-exceptions)|Implementng Errors and Exceptions in Python|
 
 Contributors: [micah Ondiwa](github.com/micahondiwa)

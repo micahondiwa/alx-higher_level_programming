@@ -1,4 +1,5 @@
 #!/usr/bin/python3
-class Sqaure:
-    """Class Sqaure that defines a Sqaure"""
+class Square:
+    """Class Square that defines a square.
+    """
     pass

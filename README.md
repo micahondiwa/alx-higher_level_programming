@@ -20,5 +20,6 @@
 |[0x03-python-data_structures](0x03-python-data_structures)|Implements data structures n python - lists and tuples.|
 |[0x04-python-more_data_structures](0x04-python-more_data_structures)| More on data Structures: Set, Dictionary in python|
 |[0x05-python-exceptions](0x05-python-exceptions)|Implementng Errors and Exceptions in Python|
+|[0x06-python-classes](0x06-python-classes)|Implements objects and classes in Python.|
 
 Contributors: [micah Ondiwa](github.com/micahondiwa)

@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 class Sqaure:
-    pass
+    
+    def __init__(self):
 
 my_Square = Square()
 print(my_Square)

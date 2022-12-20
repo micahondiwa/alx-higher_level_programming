@@ -1,4 +1,7 @@
 #!/usr/bin/python3
 class Square:
-   '''Empty class Square that defines a square'''
-    pass
+
+    pass # An empty block
+
+my_square = Square()
+print(my_square)

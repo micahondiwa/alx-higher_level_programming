@@ -9,4 +9,4 @@ my_square = Square()
 '''Prints the class and the location in memory.'''
 print(type(my_square))
 
-print(mysquare.dict_)
+print(my_square.dict_)

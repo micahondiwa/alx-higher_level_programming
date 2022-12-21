@@ -7,4 +7,4 @@ class Square:
 my_square = Square()
 
 '''Prints the class and the location in memory.'''
-print(my_square)
+print(type(my_square))

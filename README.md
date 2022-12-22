@@ -14,12 +14,12 @@
 
 | Directory  | Description |
 | ---  | --- |
-|[0x00-python-hello_world](0x00-python-hello_world) |Fundamental introduction to Python programming|
+|[0x00-python-hello_world](0x00-python-hello_world) |Fundamental introduction to Python programming.|
 |[0x01-python-if_else_loops_functions](0x01-python-if_else_loops_functions)|Implenting ```if```, ```if``` ... ```else``` statements, ```while``` and ```for``` loops, ```break``` and ```continues``` statements, ```else```  clauses on loops, ```pass``` statement do, and when to use it, and ```range``` in ```Python3```|
 |[0x02-python-import_modules](0x02-python-import_modules)|Implents python Modules, Command line arguments, and Pycodestyle – Style Guide for Python Code.|
 |[0x03-python-data_structures](0x03-python-data_structures)|Implements data structures n python - lists and tuples.|
 |[0x04-python-more_data_structures](0x04-python-more_data_structures)| More on data Structures: Set, Dictionary in python|
-|[0x05-python-exceptions](0x05-python-exceptions)|Implementng Errors and Exceptions in Python|
+|[0x05-python-exceptions](0x05-python-exceptions)|Implementng Errors and Exceptions in Python.|
 |[0x06-python-classes](0x06-python-classes)|Implements objects and classes in Python.|
 
 Contributors: [micah Ondiwa](github.com/micahondiwa)

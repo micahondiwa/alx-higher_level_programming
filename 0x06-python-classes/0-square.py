@@ -2,4 +2,4 @@
 class Square:
     
     
-    pass  # An empty for creating an empty class Square.
+    pass  '''An empty for creating an empty class Square.'''

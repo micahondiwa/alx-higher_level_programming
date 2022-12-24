@@ -1,52 +1,54 @@
 #!/usr/bin/python3
-class Square:
-    """
-    A Class Square thatis defined my size.
-    """
-    def __init__(self, size = 0):
-        """
-        The method that initializes the square object.
-        """ 
-        if not isinstance(size, int):
-            raise TypeError("The size must be an integer")
-        elif size < 0:
-            raise ValueError("The size must be >= 0")
-        else:
-            self.__size = size 
+"""A module containing a square"""
 
-    def area(self):
+
+class Square:
+    """A square class"""
+
+    def __init__(self, size=0):
+        """initializes square
+        Args:
+            size (int): size of the square
         """
-        The method that returns the area of a square object
-        """
-        return (self.__size ** 2)
+
+        self.size = size
 
     @property
     def size(self):
+        """Gets value of size
+        Returns:
+            size (int)
         """
-        The method to return the size of a square object.
-        """
+
         return self.__size
 
     @size.setter
     def size(self, value):
+        """ Change the value of size
+        Args:
+            value (int): new value of size
         """
-        The method sets the size value of a square object
+
+        if type(value) != int:
+            raise TypeError("size must be an integer")
+        elif value < 0:
+            raise ValueError("size must be >= 0")
+        self.__size = value
+
+    def area(self):
+        """ Calculates the area of a square
+        Returns:
+            area
         """
-        if not isinstance(size, int):
-            raise TypeError("The size must be an integer")
-        elif size < 0:
-            raise ValueError("The value of size must be>= 0")
-        else:
-            self.__size = value
+
+        return self.__size * self.__size
 
     def my_print(self):
-        """
-        The method prints a square with # according to the sizevalue.
-        """
-        if not self.__size = value:
+        """Print a square"""
+
+        if self.__size == 0:
+            print("")
+        for i in range(0, self.__size):
+            for j in range(0, self.__size):
+                print("#", end="")
             print()
-        else:
-            for i in range(self.__size):
-                for j in range(self.__size):
-                    print("#", end ='')
-                print()

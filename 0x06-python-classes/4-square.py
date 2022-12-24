@@ -22,6 +22,7 @@ class Square:
     def size(size, value):
         '''Changes the value of size. 
         Args: value (int): new value of size'''
+
         if type(value) != int:
             raise TypeError("The size must be an integer")
         elif value < 0:

@@ -8,12 +8,14 @@ class Square:
     def __init__(self, size=0):
         '''Initializes square. 
         Args: size (int); size of a square''''
+
         self.__size = size
 
     @property
     def size(self):
         '''The method sets the value of a square
         Returns: size (int)'''
+
         return self.__size
 
     @size.setter
@@ -30,4 +32,5 @@ class Square:
     def area(self):
         '''Returns the area of a square. 
         Return: are'''
+
         return self.__size ** 2

@@ -7,20 +7,20 @@ class Rectangle:
     width and height. Both width and height 
     must be integers'''
     def __init__(self, width=0, height=0):
-        """ Method that initializes the instance
+        '''Method that initializes the instance
         Args:
             width: width of the rectangle
             height: height of the rectangle
-        """
+        '''
         self.width = width
         self.height = height
 
     @property
     def width(self):
-        """ method that returns the value of the width
+        ''' method that returns the value of the width
         Returns:
             width of the rectangle
-        """
+        '''
         return self.__width
 
     @width.setter

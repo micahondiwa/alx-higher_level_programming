@@ -9,8 +9,8 @@ class Rectangle:
     def __init__(self, width=0, height=0):
         '''Method that initializes the instance
         Args:
-            width: width of the rectangle
-            height: height of the rectangle
+        width: width of the rectangle
+        height: height of the rectangle
         '''
         self.width = width
         self.height = height
@@ -19,7 +19,7 @@ class Rectangle:
     def width(self):
         ''' method that returns the value of the width
         Returns:
-            width of the rectangle
+        width of the rectangle
         '''
         return self.__width
 
@@ -27,10 +27,10 @@ class Rectangle:
     def width(self, value):
         """ method that defines the width
         Args:
-            value: width
+        value: width
         Raises:
-            TypeError: if width is not an integer
-            ValueError: if width is less than zero
+        TypeError: if width is not an integer
+        ValueError: if width is less than zero
         """
         if not isinstance(value, int):
             raise TypeError("width must be an integer")
@@ -42,7 +42,7 @@ class Rectangle:
     def height(self):
         """ method that returns the value of the height
         Returns:
-            height of the rectangle
+        height of the rectangle
         """
         return self.__height
 
@@ -50,10 +50,10 @@ class Rectangle:
     def height(self, value):
         """ method that defines the height
         Args:
-            value: height
+        value: height
         Raises:
-            TypeError: if height is not an integer
-            ValueError: if height is less than zero
+        TypeError: if height is not an integer
+        ValueError: if height is less than zero
         """
         if not isinstance(value, int):
             raise TypeError("height must be an integer")

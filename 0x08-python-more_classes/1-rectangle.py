@@ -1,37 +1,37 @@
 #!/usr/bin/python3
-"""
-This module is composed by a class that defines a Rectangle
-"""
+'''Definig class Rectangle'''
 
 
 class Rectangle:
-    """ Class that defines a rectangle """
+    '''A class Rectangle with private attributes 
+    width and height. Both width and height 
+    must be integers'''
     def __init__(self, width=0, height=0):
-        """ Method that initializes the instance
+        '''Method that initializes the instance
         Args:
         width: width of the rectangle
         height: height of the rectangle
-        """
+        '''
         self.width = width
         self.height = height
- 
-   @property
+
+    @property
     def width(self):
-        """ method that returns the value of the width
+        ''' method that returns the value of the width
         Returns:
         width of the rectangle
-        """
+        '''
         return self.__width
 
     @width.setter
     def width(self, value):
-        """ method that defines the width
+        ''' method that defines the width
         Args:
         value: width
         Raises:
         TypeError: if width is not an integer
         ValueError: if width is less than zero
-        """
+       '''
         if not isinstance(value, int):
             raise TypeError("width must be an integer")
         if value < 0:

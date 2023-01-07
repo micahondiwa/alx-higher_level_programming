@@ -21,5 +21,6 @@
 |[0x04-python-more_data_structures](0x04-python-more_data_structures)| More on data Structures: Set, Dictionary in python|
 |[0x05-python-exceptions](0x05-python-exceptions)|Implementng Errors and Exceptions in Python.|
 |[0x06-python-classes](0x06-python-classes)|Implements objects and classes in Python.|
+|[0x08-python-more_classes](0x08-python-more_classes)|0x08-python-more_classes|
 
 Contributors: [micah Ondiwa](github.com/micahondiwa)

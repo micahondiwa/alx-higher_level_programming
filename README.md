@@ -22,5 +22,6 @@
 |[0x05-python-exceptions](0x05-python-exceptions)|Implementng Errors and Exceptions in Python.|
 |[0x06-python-classes](0x06-python-classes)|Implements objects and classes in Python.|
 |[0x08-python-more_classes](0x08-python-more_classes)|0x08-python-more_classes|
+|[0x09-python-everything_is_object](0x09-python-everything_is_object)|0x09-python-everything_is_object|
 
 Contributors: [micah Ondiwa](github.com/micahondiwa)

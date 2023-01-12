@@ -21,7 +21,7 @@
 |[0x04-python-more_data_structures](0x04-python-more_data_structures)| More on data Structures: Set, Dictionary in python|
 |[0x05-python-exceptions](0x05-python-exceptions)|Implementng Errors and Exceptions in Python.|
 |[0x06-python-classes](0x06-python-classes)|Implements objects and classes in Python.|
-|[0x07-python-test_driven_development](0x07-python-test_driven_development)|0x07-python-test_driven_development
+|[0x07-python-test_driven_development](0x07-python-test_driven_development)|Implementing both Unit Test and Doctest in Python.
 |[0x08-python-more_classes](0x08-python-more_classes)|0x08-python-more_classes|
 |[0x09-python-everything_is_object](0x09-python-everything_is_object)|0x09-python-everything_is_object|
 

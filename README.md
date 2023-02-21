@@ -1,6 +1,6 @@
 # Higher Level Programming
 
-- Projects done during my Full Stack Software Engineering studies at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/).
+- Projects done during my Full Stack Software Engineering studies at [ALX Africa](https://www.alxafrica.com/software-engineering-2022/), a course offered by [Holberton School](https://www.holbertonschool.com/)
 
 ## Technologies
 
@@ -29,8 +29,6 @@
 |[0x0B-python-input_output](0x0B-python-input_output)|Implenting I/O in python.|
 |[0x0C-python-almost_a_circle](0x0C-python-almost_a_circle)| Python logics and output. |
 |[0x0D-SQL_introduction](0x0D-SQL_introduction)| Introduction to SQL|
-
-
 
 
 Contributors: [micah Ondiwa](github.com/micahondiwa)

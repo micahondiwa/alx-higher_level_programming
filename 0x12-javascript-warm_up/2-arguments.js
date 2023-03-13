@@ -5,6 +5,6 @@ if (process.argv.length === 0) {
 else if (process.argv.length === 1) {
 	console.log('Argument found');
 }
-else {
+else if (process.argv.length > 1) {
 	console.log('Arguments found');
 }

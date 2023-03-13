@@ -1,5 +1,4 @@
 #!/usr/bin/node
-const argument = [];
 if (argument.length === 0) {
 	console.log('No argument');
 }

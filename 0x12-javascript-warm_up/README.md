@@ -14,4 +14,4 @@
 
 | File   | Question |
 |--------|------------|
-Write a script that prints “JavaScript is amazing”:
+|[0-javascript_is_amazing.js](0-javascript_is_amazing.js)|Write a script that prints “JavaScript is amazing”:|

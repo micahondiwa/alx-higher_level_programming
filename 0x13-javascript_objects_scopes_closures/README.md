@@ -13,3 +13,4 @@
 
 | File   | Question |
 |--------|------------|
+|[0-rectangle.js](0-rectangle.js)|

@@ -16,3 +16,4 @@
 |[0-rectangle.js](0-rectangle.js)| Write an empty class Rectangle that defines a rectangle.|
 |[1-rectangle.js](1-rectangle.js)| Write a class Rectangle that defines a rectangle with a constructor with 2 arguments w = width and h = height.|
 |[2-rectangle.js](2-rectangle.js)| Write a class Rectangle that defines a rectangle with a constructor with 2 arguments w = width and h = height. If w or h is equal to 0 or not a positive integer, create an empty object.|
+Write a class Rectangle that defines a rectangle with a constructor with 2 arguments w = width and h = height. If w or h is equal to 0 or not a positive integer, create an empty object. Create an instance method called print() that prints the rectangle using the character X. |

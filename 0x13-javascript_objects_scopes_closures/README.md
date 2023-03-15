@@ -26,4 +26,4 @@
 |[10-converter.js](10-converter.js)| Write a function that converts a number from base 10 to another base passed as argument.|
 |[100-map.js](100-map.js)| Write a script that imports an array and computes a new array. |
 |[101-sorted.js](101-sorted.js)| Write a script that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence.|
-
+|[102-concat.js](102-concat.js)| Write a script that concats 2 files.|

@@ -14,4 +14,4 @@
 | File   | Question |
 |--------|------------|
 |[0-rectangle.js](0-rectangle.js)| Write an empty class Rectangle that defines a rectangle.|
-Write a class Rectangle that defines a rectangle with a constructor with 2 arguments w and h
+|[1-rectangle.js](1-rectangle.js)| Write a class Rectangle that defines a rectangle with a constructor with 2 arguments w and h

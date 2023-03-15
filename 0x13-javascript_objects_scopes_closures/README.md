@@ -25,3 +25,5 @@
 |[9-logme.js](9-logme.js)|Write a function that prints the number of arguments already printed and the new argument value.|
 |[10-converter.js](10-converter.js)| Write a function that converts a number from base 10 to another base passed as argument.|
 |[100-map.js](100-map.js)| Write a script that imports an array and computes a new array. |
+
+Write a script that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence.

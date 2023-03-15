@@ -24,3 +24,4 @@
 |[8-esrever.js](8-esrever.js)|Write a function that returns the reversed version of a list.|
 |[9-logme.js](9-logme.js)|Write a function that prints the number of arguments already printed and the new argument value.|
 |[10-converter.js](10-converter.js)| Write a function that converts a number from base 10 to another base passed as argument.|
+|[100-map.js](100-map.js)| Write a script that imports an array and computes a new array. |

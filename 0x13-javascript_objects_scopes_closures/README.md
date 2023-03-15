@@ -21,5 +21,4 @@
 |[5-square.js](5-square.js)| Write a class Square that defines a square and inherits from Rectangle of [4-rectangle.js](4-rectangle.js).|
 |[6-square.js](6-square.js)|Modify [5-square.js](5-square.js).  Create an instance method called charPrint(c) that prints the rectangle using the character c If c is undefined, use the character X.|
 |[7-occurrences.js](7-occurrences.js)| Write a function that returns the number of occurrences in a list.|
-
-Write a function that returns the reversed version of a list.
+|[8-esrever.js](8-esrever.js)|Write a function that returns the reversed version of a list.|

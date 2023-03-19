@@ -120,7 +120,6 @@ print(l)
 ```
 def assign_value(n, v):
     n = v
-
 l1 = [1, 2, 3]
 l2 = [4, 5, 6]
 assign_value(l1, l2)
@@ -190,7 +189,7 @@ a is b
 a = 1
 b = 1
 ```
-- [103-line2.txt](103-line2.txt) - How many int objects are created by the execution of the second line of the script
+- [103-line2.txt](103-line2.txt) - How many int objects are created by the execution of the second line of the script.
 ``` 
 a = 1
 b = 1

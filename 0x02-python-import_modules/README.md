@@ -26,5 +26,5 @@
 |[add_0.py](add_0.py)| A module prototype for ```add``` function.|
 |[calculator_1.py](calculator_1.py)|A module prototype for ```calculation``` function.|
 |[easy_print_101.py](easy_print_101.py)|A module prototype for ```easy_print``` function.|
-|[fast_alphabet_103.py](fast_alphabet_103.py)|A module prototype for ```fast_alphabet``` function.|
-|[variable_load_5.py](variable_load_5.py)|A module prototype for ```variable_load``` function.|
+|[fast_alphabet_103.py](fast_alphabet_103.py)|A module prototype for ```fast_alphabet``` function|
+|[variable_load_5.py](variable_load_5.py)|A module prototype for ```variable_load``` function|

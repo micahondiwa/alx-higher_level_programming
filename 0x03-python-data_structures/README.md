@@ -24,8 +24,8 @@
 |[7-add_tuple.py](7-add_tuple.py)|Write a function that adds 2 tuples.|
 |[8-multiple_returns.py](8-multiple_returns.py)|Write a function that returns a tuple with the length of a string and its first character.|
 |[9-max_integer.py](9-max_integer.py)|Write a function that finds the biggest integer of a list.|
-|[10-divisible_by_2.py](10-divisible_by_2.py)|Write a function that finds all multiples of 2 in a list.|
-|[11-delete_at.py](11-delete_at.py)|Write a function that deletes the item at a specific position in a list.|
+|[10-divisible_by_2.py](10-divisible_by_2.py)|Write a function that finds all multiples of 2 in a list|
+|[11-delete_at.py](11-delete_at.py)|Write a function that deletes the item at a specific position in a list|
 |[12-switch.py](12-switch.py)|Complete the [source code](https://github.com/holbertonschool/0x03.py/blob/master/12-switch_py) in order to switch value of ```a``` and ```b```.|
 |[13-is_palindrome.c](13-is_palindrome.c)|Write a function in C that checks if a singly linked list is a palindrome.|
 |[lists.h](lists.h)|C header file.|

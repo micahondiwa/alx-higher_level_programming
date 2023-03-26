@@ -19,15 +19,15 @@
 |[0x01-python-if_else_loops_functions](0x01-python-if_else_loops_functions)|Implenting ```if```, ```if``` ... ```else``` statements, ```while``` and ```for``` loops, ```break``` and ```continues``` statements, ```else```  clauses on loops, ```pass``` statement do, and when to use it, and ```range``` in ```Python3```|
 |[0x02-python-import_modules](0x02-python-import_modules)|Implents python Modules, Command line arguments, and Pycodestyle – Style Guide for Python Code|
 |[0x03-python-data_structures](0x03-python-data_structures)|Implements data structures n python - lists and tuples.|
-|[0x04-python-more_data_structures](0x04-python-more_data_structures)| More on data Structures: Set, Dictionary in python|
+|[0x04-python-more_data_structures](0x04-python-more_data_structures)| More on data Structures: Set, Dictionary in python.|
 |[0x05-python-exceptions](0x05-python-exceptions)|Implementng Errors and Exceptions in Python.|
 |[0x06-python-classes](0x06-python-classes)|Implements objects and classes in Python.|
 |[0x07-python-test_driven_development](0x07-python-test_driven_development)|Implementing both Unit Test and Doctest in Python.
 |[0x08-python-more_classes](0x08-python-more_classes)|Implements python Objects and Classes|
 |[0x09-python-everything_is_object](0x09-python-everything_is_object)|Examines how Python works with different types of objects.|
-|[0x0A-python-inheritance](0x0A-python-inheritance)| Implementes inheritance in classes using python. |
+|[0x0A-python-inheritance](0x0A-python-inheritance)| Implementes inheritance in classes using python|
 |[0x0B-python-input_output](0x0B-python-input_output)|Implenting I/O in python.|
-|[0x0C-python-almost_a_circle](0x0C-python-almost_a_circle)| Python logics and output|
+|[0x0C-python-almost_a_circle](0x0C-python-almost_a_circle)| Python logics and output.|
 |[0x0D-SQL_introduction](0x0D-SQL_introduction)| Introduction to SQL|
 |[0x0E-SQL_more_queries](0x0E-SQL_more_queries)| More on SQL including creating, databases, tablers users, and granting permissions to users|
 |[0x12-javascript-warm_up](0x12-javascript-warm_up)| An introduction to JavaScript.|

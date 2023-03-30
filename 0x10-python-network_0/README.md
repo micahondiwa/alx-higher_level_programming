@@ -25,6 +25,4 @@
 |[6-peak.txt](6-peak.txt)|Time complexity of [6-peak.py](6-peak.py)|.
 |[100-status_code.sh](100-status_code.sh)|Write a Bash script that sends a request to a URL passed as an argument, and displays only the status code of the response.|
 |[101-post_json.sh](101-post_json.sh)|Write a Bash script that sends a JSON POST request to a URL passed as the first argument, and displays the body of the response.|
-Write a Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response.
-
-
+|[102-catch_me.sh](102-catch_me.sh)|Write a Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response.|

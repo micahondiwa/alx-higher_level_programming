@@ -21,6 +21,7 @@
 |[3-methods.sh](3-methods.sh)|Write a Bash script that takes in a URL and displays all HTTP methods the server will accept.|
 |[4-header.sh](4-header.sh)|Write a Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response.|
 |[5-post_params.sh](5-post_params.sh)|Write a Bash script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response.|
+Write a function that finds a peak in a list of unsorted integers.
 
 
 

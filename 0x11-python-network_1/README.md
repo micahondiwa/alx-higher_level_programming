@@ -22,4 +22,4 @@
 |[7-error_code.py])(7-error_code.py)|Write a Python script that takes in a URL, sends a request to the URL and displays the body of the response.|
 |[8-json_api.py](8-json_api.py)|Write a Python script that takes in a letter and sends a POST request to http://0.0.0.0:5000/search_user with the letter as a parameter.|
 
-Write a Python script that takes your GitHub credentials (username and password) and uses the GitHub API to display your id
+Write a Python script that takes your GitHub credentials (username and password) and uses the [GitHub API](https://intranet.alxswe.com/rltoken/LjPfW9hW_55YwijGVofyTQ) to display your id

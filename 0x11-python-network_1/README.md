@@ -12,4 +12,4 @@
 
 | Files  | Question |
 | ---  | --- |
-Write a Python script that fetches https://alx-intranet.hbtn.io/status
+|[0-hbtn_status.py](0-hbtn_status.py)|Write a Python script that fetches https://alx-intranet.hbtn.io/status.|

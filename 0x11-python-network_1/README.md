@@ -17,4 +17,4 @@
 |[2-post_email.py](2-post_email.py)|Write a Python script that takes in a URL and an email, sends a POST request to the passed URL with the email as a parameter, and displays the body of the response (decoded in utf-8).|
 |[3-error_code.py](3-error_code.py)|Write a Python script that takes in a URL, sends a request to the URL and displays the body of the response (decoded in utf-8).|
 |[4-hbtn_status.py](4-hbtn_status.py)|Write a Python script that fetches https://alx-intranet.hbtn.io/status.|
-Write a Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header
+|[5-hbtn_header.py](5-hbtn_header.py)|Write a Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header.|

@@ -29,8 +29,8 @@
 |[0x0B-python-input_output](0x0B-python-input_output)|Implenting I/O in python.|
 |[0x0C-python-almost_a_circle](0x0C-python-almost_a_circle)| Python logics and output.|
 |[0x0D-SQL_introduction](0x0D-SQL_introduction)| Introduction to SQL|
-|[0x0E-SQL_more_queries](0x0E-SQL_more_queries)| More on SQL including creating, databases, tablers users, and granting permissions to users.|
+|[0x0E-SQL_more_queries](0x0E-SQL_more_queries)| More on SQL including creating, databases, tablers users, and granting permissions to users|
 |[0x12-javascript-warm_up](0x12-javascript-warm_up)| An introduction to JavaScript.|
-|[0x13-javascript_objects_scopes_closures](0x13-javascript_objects_scopes_closures)| Implementting objects, closures and classes in Javascript.|
+|[0x13-javascript_objects_scopes_closures](0x13-javascript_objects_scopes_closures)| Implementting objects, closures and classes in Javascript|
 
 Contributors: [micah Ondiwa](github.com/micahondiwa)

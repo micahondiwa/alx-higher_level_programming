@@ -14,4 +14,4 @@
 |--------|------------|
 |[0-script.js](0-script.js)|Write a JavaScript script that updates the text color of the <header> element in [0-main.html](0-main.html) to red (#FF0000).|
 |[1-script.js](1-script.js)|With JQuery - rite a JavaScript script that updates the text color of the <header> element in [1-main.html](1-main.html) to red (#FF0000)|
- 
+Write a JavaScript script that updates the text color of the <header> element in [2-main.html](2-main.html) to red (#FF0000) when the user clicks on the tag DIV#red_header.|

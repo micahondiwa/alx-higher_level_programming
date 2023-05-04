@@ -35,7 +35,7 @@
 |[0x11-python-network_1](0x11-python-network_1)| Networking in Python|
 |[0x12-javascript-warm_up](0x12-javascript-warm_up)| An introduction to JavaScript.|
 |[0x13-javascript_objects_scopes_closures](0x13-javascript_objects_scopes_closures)| Implementting objects, closures and classes in Javascript|
-|[0x14-javascript-web_scraping](0x14-javascript-web_scraping)|Implenting web scrapping in JavaScript|
-|[0x15-javascript-web_jquery](0x15-javascript-web_jquery)|JavaScript JQuery|
+|[0x14-javascript-web_scraping](0x14-javascript-web_scraping)|Implenting web scrapping in JavaScript.|
+|[0x15-javascript-web_jquery](0x15-javascript-web_jquery)|JavaScript JQuery.|
 
 Contributors: [micah Ondiwa](github.com/micahondiwa)

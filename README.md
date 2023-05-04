@@ -31,6 +31,7 @@
 |[0x0D-SQL_introduction](0x0D-SQL_introduction)| Introduction to SQL|
 |[0x0E-SQL_more_queries](0x0E-SQL_more_queries)| More on SQL including creating, databases, tablers users, and granting permissions to users|
 |[0x0F-python-object_relational_mapping](0x0F-python-object_relational_mapping)|Python object relational mapping- SQLAlchemy.|
+|[0x10-python-network_0](0x10-python-network_0)|Networking in Python.|
 |[0x11-python-network_1](0x11-python-network_1)| Networking in Python|
 |[0x12-javascript-warm_up](0x12-javascript-warm_up)| An introduction to JavaScript.|
 |[0x13-javascript_objects_scopes_closures](0x13-javascript_objects_scopes_closures)| Implementting objects, closures and classes in Javascript|

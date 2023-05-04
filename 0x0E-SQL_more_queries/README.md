@@ -21,4 +21,4 @@
 |[8-cities_of_california_subquery.sql](8-cities_of_california_subquery.sql)|Write a script that lists all the cities of California that can be found in the database hbtn_0d_usa.|
 |[9-cities_by_state_join.sql](9-cities_by_state_join.sql)|Write a script that lists all cities contained in the database hbtn_0d_usa.|
 |[10-genre_id_by_show.sql](10-genre_id_by_show.sql)|Import the database dump from hbtn_0d_tvshows to your MySQL server: [download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql)|
-Import the database dump of hbtn_0d_tvshows to your MySQL server: [download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql)|
+|[11-genre_id_all_shows.sql](11-genre_id_all_shows.sql)|Import the database dump of hbtn_0d_tvshows to your MySQL server: [download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql)|

@@ -31,4 +31,5 @@
 |[14-model_city_fetch_by_state.py](14-model_city_fetch_by_state.py)|write a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa.|
 |[relationship_city.py](relationship_city.py)|Improve the files model_city.py and save it as relationship_city.py 
 |[relationship_state.py](relationship_state.py)|Improve the files  model_state.py, and save its as relationship_state.py|
-Write a script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa
+|[100-relationship_states_cities.py](100-relationship_states_cities.py)|Write a script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa|
+

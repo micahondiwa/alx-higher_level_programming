@@ -22,6 +22,6 @@
 |[7-script.js](7-script.js)|Write a JavaScript script that fetches the character name from this URL: https://swapi-api.alx-tools.com/api/people/5/?format=json -use [7-main.html](7-main.html).|
 |[8-script.js](8-script.js)|Write a JavaScript script that fetches and lists the title for all movies by using this URL: https://swapi-api.alx-tools.com/api/films/?format=json -use [8-main.html](8-main.html).|
 |[9-script.js](9-script.js)|Write a JavaScript script that fetches from https://fourtonfish.com/hellosalut/?lang=fr and displays the value of hello from that fetch in the HTML tag DIV#hello - [9-main.html](9-main.html).|
-|[100-script.js](100-script.js)|Write a JavaScript script that updates the text color of the <header> element to red (#FF0000)- use [100-main.html](100-main.html).
+|[100-script.js](100-script.js)|Write a JavaScript script that updates the text color of the <header> element to red (#FF0000)- use [100-main.html](100-main.html).|
 |[101-script.js](101-script.js)|Write a JavaScript script that adds, removes and clears LI elements from a list when the user clicks - use [101-main.html](101-main.html).|
-  Write a JavaScript script that fetches and prints how to say “Hello” depending on the language -se [102-main.html](102-main.html).|
+|[102-script.js](102-script.js)|Write a JavaScript script that fetches and prints how to say “Hello” depending on the language -se [102-main.html](102-main.html).|

@@ -16,3 +16,4 @@
 |[1-writeme.js](1-writeme.js)|Write a script that writes a string to a file.|
 |[2-statuscode.js](2-statuscode.js)|Write a script that display the status code of a GET request.|
 |[3-starwars_title.js](3-starwars_title.js)|Write a script that prints the title of a Star Wars movie where the episode number matches a given integer.|
+Write a script that prints the number of movies where the character “Wedge Antilles” is present.

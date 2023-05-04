@@ -15,3 +15,4 @@
 |[0-readme.js](0-readme.js)|Write a script that reads and prints the content of a file.|
 |[1-writeme.js](1-writeme.js)|Write a script that writes a string to a file.|
 |[2-statuscode.js](2-statuscode.js)|Write a script that display the status code of a GET request.|
+Write a script that prints the title of a Star Wars movie where the episode number matches a given integer.

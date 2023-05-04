@@ -22,3 +22,4 @@
 |[model_state.py](model_state.py)|Write a python file that contains the class definition of a State and an instance Base = declarative_base()|
 |[7-model_state_fetch_all.py](7-model_state_fetch_all.py)|Write a script that lists all State objects from the database hbtn_0e_6_usa.|
 |[8-model_state_fetch_first.py](8-model_state_fetch_first.py)|Write a script that prints the first State object from the database hbtn_0e_6_usa|
+Write a script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa.|

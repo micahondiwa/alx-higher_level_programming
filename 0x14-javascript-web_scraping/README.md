@@ -20,3 +20,4 @@
 |[5-request_store.js](5-request_store.js)|Write a script that gets the contents of a webpage and stores it in a file.|
 |[6-completed_tasks.js](6-completed_tasks.js)|Write a script that computes the number of tasks completed by user id.|
 |[100-starwars_characters.js](100-starwars_characters.js)|Write a script that prints all characters of a Star Wars movie.|
+Write a script that prints all characters of a Star Wars movie.

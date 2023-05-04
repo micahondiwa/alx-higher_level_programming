@@ -13,3 +13,4 @@
 | File   | Question |
 |--------|------------|
 |[0-readme.js](0-readme.js)|Write a script that reads and prints the content of a file.|
+Write a script that writes a string to a file.

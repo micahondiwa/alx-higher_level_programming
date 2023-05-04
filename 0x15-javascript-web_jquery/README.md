@@ -18,4 +18,4 @@
 |[3-script.js](3-script.js)|Write a JavaScript script that adds the class red to the <header> element when the user clicks on the tag DIV#red_header - use [3-main.html](3-main.html).|
 [4-script.js](4-script.js)|Write a JavaScript script that toggles the class of the <header> element when the user clicks on the tag DIV#toggle_header- use [4-main.html](4-main.html).|
 |[5-script.js](5-script.js)|Write a JavaScript script that adds ```a <li>``` element to a list when the user clicks on the tag DIV#add_item- use [5-main.html](5-main.html).|
-|Write a JavaScript script that updates the text of the <header> element to New Header!!! when the user clicks on DIV#update_header use [6-main.html](6-main.html).|
+|[6-script.js](6-script.js)||Write a JavaScript script that updates the text of the <header> element to New Header!!! when the user clicks on DIV#update_header use [6-main.html](6-main.html).|

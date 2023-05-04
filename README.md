@@ -32,5 +32,6 @@
 |[0x0E-SQL_more_queries](0x0E-SQL_more_queries)| More on SQL including creating, databases, tablers users, and granting permissions to users|
 |[0x12-javascript-warm_up](0x12-javascript-warm_up)| An introduction to JavaScript.|
 |[0x13-javascript_objects_scopes_closures](0x13-javascript_objects_scopes_closures)| Implementting objects, closures and classes in Javascript|
+|[0x14-javascript-web_scraping](0x14-javascript-web_scraping)|Implenting web scrapping in JavaScript|
 
 Contributors: [micah Ondiwa](github.com/micahondiwa)

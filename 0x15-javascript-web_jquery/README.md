@@ -6,8 +6,8 @@
 - Files wriiten according to the 
 - Files tested on ```Ubuntu 20.04``` LTS.
 - ```JavaScript``` files 
-- Codes are [semistandard](https://standardjs.com/rules.html) compliant. 
-- html files
+- js codes are [semistandard](https://standardjs.com/rules.html) compliant. 
+- html files.
 ## Files
 
 | File   | Question |

@@ -26,6 +26,6 @@
 |[13-count_shows_by_genre.sql](13-count_shows_by_genre.sql)|Import the database dump from hbtn_0d_tvshows to your MySQL server:[download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql)|
 |[14-my_genres.sql](14-my_genres.sql)|Import the database dump from hbtn_0d_tvshows to your MySQL server:[download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql)|
 |[15-comedy_only.sql](15-comedy_only.sql)|Import the database dump from hbtn_0d_tvshows to your MySQL server: [download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql)|
-
+Import the database dump from hbtn_0d_tvshows to your MySQL server: [download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows.sql)|
 
 

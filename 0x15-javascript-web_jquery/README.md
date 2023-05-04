@@ -19,3 +19,4 @@
 [4-script.js](4-script.js)|Write a JavaScript script that toggles the class of the <header> element when the user clicks on the tag DIV#toggle_header- use [4-main.html](4-main.html).|
 |[5-script.js](5-script.js)|Write a JavaScript script that adds ```a <li>``` element to a list when the user clicks on the tag DIV#add_item- use [5-main.html](5-main.html).|
 |[6-script.js](6-script.js)||Write a JavaScript script that updates the text of the <header> element to New Header!!! when the user clicks on DIV#update_header use [6-main.html](6-main.html).|
+Write a JavaScript script that fetches the character name from this URL: https://swapi-api.alx-tools.com/api/people/5/?format=json -use [7-main.html](7-main.html).|

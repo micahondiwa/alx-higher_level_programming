@@ -20,3 +20,4 @@
 |[4-cities_by_state.py](4-cities_by_state.py)|Write a script that lists all cities from the database hbtn_0e_4_usa.|
 |[5-filter_cities.py](5-filter_cities.py)|Write a script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa.|
 |[model_state.py](model_state.py)|Write a python file that contains the class definition of a State and an instance Base = declarative_base()|
+Write a script that lists all State objects from the database hbtn_0e_6_usa.|

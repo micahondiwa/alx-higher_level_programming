@@ -26,4 +26,4 @@
 |[10-model_state_my_get.py](10-model_state_my_get.py)|Write a script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa.|
 |[11-model_state_insert.py](11-model_state_insert.py)|Write a script that adds the State object “Louisiana” to the database hbtn_0e_6_usa.|
 |[12-model_state_update_id_2.py](12-model_state_update_id_2.py)|Write a script that changes the name of a State object from the database hbtn_0e_6_usa.|
-Write a script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa.|
+|[13-model_state_delete_a.py](13-model_state_delete_a.py)|Write a script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa.|

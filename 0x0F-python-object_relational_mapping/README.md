@@ -29,6 +29,6 @@
 |[13-model_state_delete_a.py](13-model_state_delete_a.py)|Write a script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa.|
 |[model_city.py](model_city.py)|Write a Python file similar to model_state.py named model_city.py that contains the class definition of a City.|
 |[14-model_city_fetch_by_state.py](14-model_city_fetch_by_state.py)|write a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa.|
-relationship_city.py
-Improve the files model_city.py and save it as relationship_city.py 
-Improve the files  model_state.py, and save its as relationship_state.py
+|[relationship_city.py](relationship_city.py)|Improve the files model_city.py and save it as relationship_city.py 
+|[relationship_state.py](relationship_state.py)|Improve the files  model_state.py, and save its as relationship_state.py|
+

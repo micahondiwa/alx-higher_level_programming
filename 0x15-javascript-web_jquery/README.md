@@ -12,4 +12,4 @@
 
 | File   | Question |
 |--------|------------|
-Write a JavaScript script that updates the text color of the <header> element to red (#FF0000):
+|[0-script.js](0-script.js)|Write a JavaScript script that updates the text color of the <header> element in [0-main.html](0-main.html) to red (#FF0000).|

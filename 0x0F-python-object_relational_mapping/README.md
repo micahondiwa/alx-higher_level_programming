@@ -30,4 +30,4 @@
 Improve the files model_city.py and model_state.py, and save them as relationship_city.py and relationship_state.py
 |[model_city.py](model_city.py)|Write a Python file similar to model_state.py named model_city.py that contains the class definition of a City.|
 |[14-model_city_fetch_by_state.py](14-model_city_fetch_by_state.py)|write a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa.|
-
+relationship_city.py
